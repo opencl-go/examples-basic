@@ -1,0 +1,6 @@
+github.com/opencl-go/cl12 v0.0.0-20220815161006-f44ac56ae740 h1:imVTngvw5EPD26rkC7bgv5AKfdFLhSacykOVAiI6+DE=
+github.com/opencl-go/cl12 v0.0.0-20220815161006-f44ac56ae740/go.mod h1:kOMDgLzpZ8i56Q8mwsAfttqbBcfrRHvCzEE7ZyGsRxo=
+github.com/opencl-go/cl22 v0.0.0-20220815161000-fba195330d41 h1:H5eyBiJ/TRkbKieAwY7Td037MMBm4vTyJsppNhBMaTA=
+github.com/opencl-go/cl22 v0.0.0-20220815161000-fba195330d41/go.mod h1:7YiM0s5Y/Lff0azRXbdefIoaWOJvSrcgJULn2Ko9faI=
+github.com/opencl-go/cl30 v0.0.0-20220815160920-50302b656b16 h1:ROMwkfCYvk7XKtcJnqxoIfaBCHSwaTojxDj4VwVfjNM=
+github.com/opencl-go/cl30 v0.0.0-20220815160920-50302b656b16/go.mod h1:mM7GyaZg0UgkJexase2ACg+MoItX0oRYaDiRHZC4PPI=
